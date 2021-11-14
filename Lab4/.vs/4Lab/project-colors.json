@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c59f7337-1cf8-4320-a17c-0cf0eb7a9ff9": {
+      "ProjectGuid": "c59f7337-1cf8-4320-a17c-0cf0eb7a9ff9",
+      "DisplayName": "4Lab",
+      "ColorIndex": 0
+    },
+    "cc00a24a-18a6-4c0f-accc-5527acf2503f": {
+      "ProjectGuid": "cc00a24a-18a6-4c0f-accc-5527acf2503f",
+      "DisplayName": "4Lab.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

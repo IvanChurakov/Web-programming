@@ -1,0 +1,117 @@
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\4Lab.dll.config
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\4Lab.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\4Lab.pdb
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\csc.exe
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\csc.exe.config
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\csc.rsp
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\csi.exe
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\csi.exe.config
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\csi.rsp
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.AppContext.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Console.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.IO.Compression.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Net.Http.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.ValueTuple.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\vbc.exe
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\vbc.exe.config
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\vbc.rsp
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\VBCSCompiler.exe
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vanya\source\repos\4Lab\4Lab\obj\Debug\4Lab.csprojAssemblyReference.cache
+C:\Users\vanya\source\repos\4Lab\4Lab\obj\Debug\4Lab.csproj.CoreCompileInputs.cache
+C:\Users\vanya\source\repos\4Lab\4Lab\obj\Debug\4Lab.csproj.CopyComplete
+C:\Users\vanya\source\repos\4Lab\4Lab\obj\Debug\4Lab.dll
+C:\Users\vanya\source\repos\4Lab\4Lab\obj\Debug\4Lab.pdb
+D:\Чураков 4\4Lab\4Lab\bin\4Lab.dll.config
+D:\Чураков 4\4Lab\4Lab\bin\4Lab.dll
+D:\Чураков 4\4Lab\4Lab\bin\4Lab.pdb
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\csc.exe
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\csc.exe.config
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\csc.rsp
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\csi.exe
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\csi.exe.config
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\csi.rsp
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.AppContext.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Collections.Immutable.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Console.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Globalization.Calendars.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.IO.Compression.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.IO.FileSystem.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Net.Http.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Net.Sockets.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Reflection.Metadata.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.ValueTuple.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Xml.XPath.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\vbc.exe
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\vbc.exe.config
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\vbc.rsp
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\VBCSCompiler.exe
+D:\Чураков 4\4Lab\4Lab\bin\roslyn\VBCSCompiler.exe.config
+D:\Чураков 4\4Lab\4Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Чураков 4\4Lab\4Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Чураков 4\4Lab\4Lab\obj\Debug\4Lab.csproj.AssemblyReference.cache
+D:\Чураков 4\4Lab\4Lab\obj\Debug\4Lab.csproj.CoreCompileInputs.cache
+D:\Чураков 4\4Lab\4Lab\obj\Debug\4Lab.dll
+D:\Чураков 4\4Lab\4Lab\obj\Debug\4Lab.pdb

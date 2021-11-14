@@ -1,0 +1,5 @@
+Name: Ivan
+Age: 18
+Telephone: 214142151
+Email: vanya.churakov01@gmail.com
+Password: 12345678

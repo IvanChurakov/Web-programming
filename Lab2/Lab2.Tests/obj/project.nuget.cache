@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4PudgWhT1nPTFj9g82EbFm/TWsct56Hxp02Y9YGPfUm4Ktf3jPnZ3gwqJ04YB0eZzXxGMJYuLOmLYt4f4mc7Wg==",
+  "success": true,
+  "projectFilePath": "D:\\Чураков 2\\Lab2\\Lab2.Tests\\Lab2.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanya\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\vanya\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\vanya\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\vanya\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

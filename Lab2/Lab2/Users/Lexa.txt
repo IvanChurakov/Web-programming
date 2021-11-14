@@ -1,0 +1,5 @@
+Name: Lexa
+Age: 123
+Telephone: 12345678
+Email: ban@python.com
+Password: 12345678
